@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Usha Pandey</h1>
-<h3 align="center">A passionate Data Science, Machine Learning & Data Analytics student from Nepal</h3>
+<h3 align="center">A passionate about AI/ML, Data Science, & Data Analytics student from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ushaaaa33&label=Profile%20views&color=0e75b6&style=flat" alt="ushaaaa33" /> </p>
 
-- 🔭 I’m currently working on [Machine Learning & Data Analytics projects using real-world datasets](https://github.com/ushaaaa33)
+- 🔭 I’m currently working on [ NLP, ML & Data Analytics projects using real-world datasets](https://github.com/ushaaaa33)
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, SQL, Tableau, Power BI**
+- 🌱 I’m currently learning **NLP, Deep Learning**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning & Data Visualization projects**
+- 👯 I’m looking to collaborate on **AI/ML, Data Science, & Data Visualization projects**
 
 - 🤝 I’m looking for help with **Advanced Machine Learning concepts & real-world data problems**
 
